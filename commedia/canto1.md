@@ -1,4 +1,4 @@
-Provando a imparar a usar lo Git3
+Allenamento con Orazio   
 mi ritrovai per una selva oscura 
 ché la diritta via era smarrita    
 Sempre caro mi fu quest'ermo colle,    
@@ -15,8 +15,7 @@ vo comparando: e mi sovvien l'eterno,
 e le morte stagioni, e la presente    
 e viva, e il suon di lei. Così tra questa    
 immensità[3] s'annega il pensier mio:    
-e il naufragar m'è dolce in questo mare.    
-
+e il naufragar m'è dolce in questo mare.   
 Ahi quanto a dir qual era è cosa dura    
 esta selva selvaggia e aspra e forte    
 che nel pensier rinova la paura!    
