@@ -1,6 +1,6 @@
 Provando a imparar a usar lo Git3
 mi ritrovai per una selva oscura 
-ché la diritta via era smarrita.    
+ché la diritta via era smarrita    
 Sempre caro mi fu quest'ermo colle,    
 e questa siepe, che da tanta parte    
 dell'ultimo orizzonte il guardo esclude.    
