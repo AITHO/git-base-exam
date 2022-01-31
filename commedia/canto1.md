@@ -1,4 +1,4 @@
-Nel mezzo del cammin di nostra vita    
+Allenamento con Orazio    
 mi ritrovai per una selva oscura,    
 ché la diritta via era smarrita.    
     
