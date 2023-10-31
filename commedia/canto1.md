@@ -1,4 +1,4 @@
-Sempre caro mi fu quest'ermo colle,    
+provando ad usare Git
 e questa siepe, che da tanta parte    
 dell'ultimo orizzonte il guardo esclude.    
 Ma sedendo e mirando, interminati    
